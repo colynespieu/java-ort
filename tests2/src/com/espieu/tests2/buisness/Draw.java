@@ -31,7 +31,7 @@ public class Draw {
 					System.out.print(". ");
 				}
 				if (animated) {
-					pause(500);
+					pause(10);
 				}
 			}
 			System.out.print("\n");
@@ -48,7 +48,7 @@ public class Draw {
 					System.out.print(". ");
 				}
 				if (animated) {
-					pause(500);
+					pause(10);
 				}
 			}
 		System.out.print("\n");
